@@ -1,0 +1,33 @@
+.navbar{
+    background-color: #0A1828;
+    border-radius: 0 0 0 87px;
+}
+.navbar-brand{
+    margin: auto !important;
+    color: #BFA181 !important;
+    font-family: 'Roboto', sans-serif;
+}
+.title{
+    font-size:30px;
+    font-family: "Bradley Hand ITC";
+    color: #BFA181;
+    font-weight: bold;
+
+}
+.navbardata{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+.container-fluid{
+    width: 95% !important;
+}
+.logout-container{
+    width: 5% !important;
+    padding-top: 70px;
+}
+.logouts{
+    height: 30px;
+}
+
+
